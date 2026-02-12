@@ -1,3 +1,3 @@
 # demo
 this is my first git repositary
-Author - satya
+Author - satya bhat
